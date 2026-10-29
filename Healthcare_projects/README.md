@@ -121,8 +121,3 @@ The Sleep Gap: The model and analysis confirm a significant gap in sleep duratio
 Model Interpretability: By analyzing the Feature Importance, the Random Forest model confirmed that Sleep Duration and Sleep Quality are by far the most critical factors for feeling rested, followed closely by Stress Levels.
 
 Stress vs. Cognition: The scatter plot reveals a clear negative correlation between high stress scores and low cognitive performance scores, proving that psychological state heavily impacts daily performance.
-
-AUTHOR
-
-Lukas Köppl Markwart
-Apprentice IT Specialist for Data and Process Analysis (Fachinformatiker für Daten- und Prozessanalyse).
